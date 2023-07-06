@@ -1,0 +1,805 @@
+{
+  "NAME": "Senegal",
+  "AREA": 196691.1875,
+  "CODE": "SN",
+  "ZONES": [
+    {
+      "NAME": "Dakar",
+      "AREA": 544.0479736328125,
+      "CODE": "SN01",
+      "ZONES": [
+        {
+          "NAME": "Dakar",
+          "AREA": 81.60824584960938,
+          "CODE": "SN0101",
+          "ZONES": [
+            {
+              "NAME": "Almadies",
+              "AREA": 31.70086669921875,
+              "CODE": "SN010101"
+            },
+            {
+              "NAME": "Grand Dakar",
+              "AREA": 18.94703674316406,
+              "CODE": "SN010102"
+            },
+            {
+              "NAME": "Parcelles Assainies",
+              "AREA": 15.48530006408691,
+              "CODE": "SN010103"
+            },
+            { "NAME": "Plateau", "AREA": 15.4750394821167, "CODE": "SN010104" }
+          ]
+        },
+        {
+          "NAME": "Guediawaye",
+          "AREA": 14.12506675720215,
+          "CODE": "SN0102",
+          "ZONES": [
+            {
+              "NAME": "Guediawaye",
+              "AREA": 14.12506675720215,
+              "CODE": "SN010201"
+            }
+          ]
+        },
+        {
+          "NAME": "Pikine",
+          "AREA": 87.8724365234375,
+          "CODE": "SN0103",
+          "ZONES": [
+            { "NAME": "Niayes", "AREA": 42.11940383911133, "CODE": "SN010301" },
+            {
+              "NAME": "Pikine Dagoudane",
+              "AREA": 14.71176719665527,
+              "CODE": "SN010303"
+            },
+            {
+              "NAME": "Thiaroye",
+              "AREA": 31.04126358032227,
+              "CODE": "SN010302"
+            }
+          ]
+        },
+        {
+          "NAME": "Rufisque",
+          "AREA": 360.4422302246094,
+          "CODE": "SN0104",
+          "ZONES": [
+            {
+              "NAME": "Rufisque Bargny",
+              "AREA": 18.41924285888672,
+              "CODE": "SN010402"
+            },
+            {
+              "NAME": "Sangalkam",
+              "AREA": 342.0229797363281,
+              "CODE": "SN010401"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Diourbel",
+      "AREA": 4861.89990234375,
+      "CODE": "SN02",
+      "ZONES": [
+        {
+          "NAME": "Bambey",
+          "AREA": 1334.47265625,
+          "CODE": "SN0201",
+          "ZONES": [
+            {
+              "NAME": "Baba Garage",
+              "AREA": 404.1372375488281,
+              "CODE": "SN020103"
+            },
+            {
+              "NAME": "Lambaye",
+              "AREA": 464.5531005859375,
+              "CODE": "SN020101"
+            },
+            { "NAME": "Ngoye", "AREA": 465.7822570800781, "CODE": "SN020102" }
+          ]
+        },
+        {
+          "NAME": "Diourbel",
+          "AREA": 1288.363647460938,
+          "CODE": "SN0202",
+          "ZONES": [
+            { "NAME": "Ndindy", "AREA": 640.6697998046875, "CODE": "SN020202" },
+            { "NAME": "Ndoulo", "AREA": 647.6937866210938, "CODE": "SN020201" }
+          ]
+        },
+        {
+          "NAME": "Mbacke",
+          "AREA": 2239.063720703125,
+          "CODE": "SN0203",
+          "ZONES": [
+            { "NAME": "Kael", "AREA": 693.91650390625, "CODE": "SN020303" },
+            { "NAME": "Ndame", "AREA": 964.1602783203125, "CODE": "SN020301" },
+            { "NAME": "Taif", "AREA": 580.98681640625, "CODE": "SN020302" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Fatick",
+      "AREA": 7048.421875,
+      "CODE": "SN03",
+      "ZONES": [
+        {
+          "NAME": "Fatick",
+          "AREA": 2627.34423828125,
+          "CODE": "SN0301",
+          "ZONES": [
+            {
+              "NAME": "Diakhao",
+              "AREA": 642.8706665039062,
+              "CODE": "SN030101"
+            },
+            { "NAME": "Fimla", "AREA": 1040.010131835938, "CODE": "SN030102" },
+            {
+              "NAME": "Niakhar",
+              "AREA": 412.4780883789062,
+              "CODE": "SN030104"
+            },
+            {
+              "NAME": "Tattaguine",
+              "AREA": 531.9854736328125,
+              "CODE": "SN030103"
+            }
+          ]
+        },
+        {
+          "NAME": "Foundiougne",
+          "AREA": 2967.614501953125,
+          "CODE": "SN0302",
+          "ZONES": [
+            { "NAME": "Djilor", "AREA": 875.2102661132812, "CODE": "SN030201" },
+            { "NAME": "Niodior", "AREA": 652.63818359375, "CODE": "SN030203" },
+            {
+              "NAME": "Toubakouta",
+              "AREA": 1439.765869140625,
+              "CODE": "SN030202"
+            }
+          ]
+        },
+        {
+          "NAME": "Gossas",
+          "AREA": 1453.463134765625,
+          "CODE": "SN0303",
+          "ZONES": [
+            {
+              "NAME": "Colobane",
+              "AREA": 934.0924682617188,
+              "CODE": "SN030301"
+            },
+            {
+              "NAME": "Ouadiour",
+              "AREA": 519.3707275390625,
+              "CODE": "SN030302"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Kaffrine",
+      "AREA": 11047.40234375,
+      "CODE": "SN04",
+      "ZONES": [
+        {
+          "NAME": "Birkelane",
+          "AREA": 1150.860107421875,
+          "CODE": "SN0401",
+          "ZONES": [
+            {
+              "NAME": "Keur Mboucki",
+              "AREA": 526.2815551757812,
+              "CODE": "SN040102"
+            },
+            { "NAME": "Mabo", "AREA": 624.5785522460938, "CODE": "SN040101" }
+          ]
+        },
+        {
+          "NAME": "Kaffrine",
+          "AREA": 2661.095947265625,
+          "CODE": "SN0402",
+          "ZONES": [
+            { "NAME": "Gniby", "AREA": 1428.297241210938, "CODE": "SN040201" },
+            { "NAME": "Katakel", "AREA": 1232.798583984375, "CODE": "SN040202" }
+          ]
+        },
+        {
+          "NAME": "Koungheul",
+          "AREA": 4537.9873046875,
+          "CODE": "SN0403",
+          "ZONES": [
+            {
+              "NAME": "Ida Mouride",
+              "AREA": 1234.578002929688,
+              "CODE": "SN040302"
+            },
+            {
+              "NAME": "Lour Escale",
+              "AREA": 1128.391235351562,
+              "CODE": "SN040303"
+            },
+            {
+              "NAME": "Missira Wadene",
+              "AREA": 2175.01806640625,
+              "CODE": "SN040301"
+            }
+          ]
+        },
+        {
+          "NAME": "Malem Hodar",
+          "AREA": 2697.458984375,
+          "CODE": "SN0404",
+          "ZONES": [
+            {
+              "NAME": "Darou Minam 2",
+              "AREA": 1630.9931640625,
+              "CODE": "SN040401"
+            },
+            { "NAME": "Sagna", "AREA": 1066.465942382812, "CODE": "SN040402" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Kaolack",
+      "AREA": 5263.96435546875,
+      "CODE": "SN05",
+      "ZONES": [
+        {
+          "NAME": "Guinguineo",
+          "AREA": 1082.226928710938,
+          "CODE": "SN0501",
+          "ZONES": [
+            {
+              "NAME": "Mbadakhoune",
+              "AREA": 545.3709106445312,
+              "CODE": "SN050101"
+            },
+            { "NAME": "Nguelou", "AREA": 536.8560180664062, "CODE": "SN050102" }
+          ]
+        },
+        {
+          "NAME": "Kaolack",
+          "AREA": 1881.842407226562,
+          "CODE": "SN0502",
+          "ZONES": [
+            {
+              "NAME": "Koumbal",
+              "AREA": 817.1929931640625,
+              "CODE": "SN050202"
+            },
+            {
+              "NAME": "Ndiedieng",
+              "AREA": 613.7620849609375,
+              "CODE": "SN050203"
+            },
+            {
+              "NAME": "Sibassoor/Ngothie",
+              "AREA": 450.8873291015625,
+              "CODE": "SN050201"
+            }
+          ]
+        },
+        {
+          "NAME": "Nioro Du Rip",
+          "AREA": 2299.89501953125,
+          "CODE": "SN0503",
+          "ZONES": [
+            {
+              "NAME": "Medina Sabakh",
+              "AREA": 601.3318481445312,
+              "CODE": "SN050303"
+            },
+            {
+              "NAME": "Paoscoto",
+              "AREA": 1015.406860351562,
+              "CODE": "SN050301"
+            },
+            { "NAME": "Wak Ngouna", "AREA": 683.15625, "CODE": "SN050302" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Kedougou",
+      "AREA": 16794.810546875,
+      "CODE": "SN06",
+      "ZONES": [
+        {
+          "NAME": "Kedougou",
+          "AREA": 7066.7509765625,
+          "CODE": "SN0601",
+          "ZONES": [
+            {
+              "NAME": "Bandafassi",
+              "AREA": 5760.54541015625,
+              "CODE": "SN060101"
+            },
+            {
+              "NAME": "Fongolembi",
+              "AREA": 1306.20556640625,
+              "CODE": "SN060102"
+            }
+          ]
+        },
+        {
+          "NAME": "Salemata",
+          "AREA": 1918.066772460938,
+          "CODE": "SN0602",
+          "ZONES": [
+            {
+              "NAME": "Dakételi",
+              "AREA": 738.068603515625,
+              "CODE": "SN060202"
+            },
+            {
+              "NAME": "Dar Salam",
+              "AREA": 1179.998168945312,
+              "CODE": "SN060201"
+            }
+          ]
+        },
+        {
+          "NAME": "Saraya",
+          "AREA": 7809.99267578125,
+          "CODE": "SN0603",
+          "ZONES": [
+            { "NAME": "Bembou", "AREA": 3592.873046875, "CODE": "SN060302" },
+            { "NAME": "Sabodala", "AREA": 4217.11962890625, "CODE": "SN060301" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Kolda",
+      "AREA": 13727.8701171875,
+      "CODE": "SN07",
+      "ZONES": [
+        {
+          "NAME": "Kolda",
+          "AREA": 3577.442626953125,
+          "CODE": "SN0701",
+          "ZONES": [
+            {
+              "NAME": "Dioulakolon",
+              "AREA": 553.0067138671875,
+              "CODE": "SN070103"
+            },
+            { "NAME": "Mampatim", "AREA": 2448.947265625, "CODE": "SN070101" },
+            {
+              "NAME": "Saré Bidji",
+              "AREA": 575.4887084960938,
+              "CODE": "SN070102"
+            }
+          ]
+        },
+        {
+          "NAME": "Medina Yoroufoula",
+          "AREA": 4706.30712890625,
+          "CODE": "SN0702",
+          "ZONES": [
+            {
+              "NAME": "Fafacourou",
+              "AREA": 892.4181518554688,
+              "CODE": "SN070203"
+            },
+            { "NAME": "Ndorna", "AREA": 2140.94775390625, "CODE": "SN070201" },
+            { "NAME": "Nianing", "AREA": 1672.941528320312, "CODE": "SN070202" }
+          ]
+        },
+        {
+          "NAME": "Velingara",
+          "AREA": 5444.1201171875,
+          "CODE": "SN0703",
+          "ZONES": [
+            { "NAME": "Bonconto", "AREA": 2856.482421875, "CODE": "SN070301" },
+            { "NAME": "Pakour", "AREA": 1202.008422851562, "CODE": "SN070302" },
+            {
+              "NAME": "Sare Coly Sallé",
+              "AREA": 1385.62939453125,
+              "CODE": "SN070303"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Louga",
+      "AREA": 25658.12109375,
+      "CODE": "SN08",
+      "ZONES": [
+        {
+          "NAME": "Kebemer",
+          "AREA": 3967.60302734375,
+          "CODE": "SN0801",
+          "ZONES": [
+            {
+              "NAME": "Darou Mousty",
+              "AREA": 1618.166015625,
+              "CODE": "SN080102"
+            },
+            { "NAME": "Ndande", "AREA": 1525.559814453125, "CODE": "SN080101" },
+            {
+              "NAME": "Sagatta Gueth",
+              "AREA": 823.8772583007812,
+              "CODE": "SN080103"
+            }
+          ]
+        },
+        {
+          "NAME": "Linguere",
+          "AREA": 16020.34375,
+          "CODE": "SN0802",
+          "ZONES": [
+            {
+              "NAME": "Barkedji",
+              "AREA": 6120.68017578125,
+              "CODE": "SN080203"
+            },
+            { "NAME": "Dodji", "AREA": 2556.888671875, "CODE": "SN080204" },
+            {
+              "NAME": "Sagata Djolof",
+              "AREA": 2921.44677734375,
+              "CODE": "SN080202"
+            },
+            { "NAME": "Yang Yang", "AREA": 4421.328125, "CODE": "SN080201" }
+          ]
+        },
+        {
+          "NAME": "Louga",
+          "AREA": 5670.17529296875,
+          "CODE": "SN0803",
+          "ZONES": [
+            {
+              "NAME": "Keur Momar Sarr",
+              "AREA": 2829.04443359375,
+              "CODE": "SN080301"
+            },
+            { "NAME": "Koki", "AREA": 899.3936157226562, "CODE": "SN080302" },
+            { "NAME": "Mbediene", "AREA": 752.8427734375, "CODE": "SN080303" },
+            { "NAME": "Sakal", "AREA": 1188.894165039062, "CODE": "SN080304" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Matam",
+      "AREA": 28857.033203125,
+      "CODE": "SN09",
+      "ZONES": [
+        {
+          "NAME": "Kanel",
+          "AREA": 8691.951171875,
+          "CODE": "SN0901",
+          "ZONES": [
+            {
+              "NAME": "Orkadiere",
+              "AREA": 2563.064697265625,
+              "CODE": "SN090102"
+            },
+            {
+              "NAME": "Sinthiou Banambe/Wouro Sidy",
+              "AREA": 6128.88623046875,
+              "CODE": "SN090101"
+            }
+          ]
+        },
+        {
+          "NAME": "Matam",
+          "AREA": 5754.3095703125,
+          "CODE": "SN0902",
+          "ZONES": [
+            {
+              "NAME": "Agnam Civol",
+              "AREA": 1885.588623046875,
+              "CODE": "SN090202"
+            },
+            { "NAME": "Ogo", "AREA": 3868.720703125, "CODE": "SN090201" }
+          ]
+        },
+        {
+          "NAME": "Ranerou",
+          "AREA": 14410.7734375,
+          "CODE": "SN0903",
+          "ZONES": [
+            { "NAME": "Velingara", "AREA": 14410.7734375, "CODE": "SN090301" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Saint Louis",
+      "AREA": 18970.951171875,
+      "CODE": "SN10",
+      "ZONES": [
+        {
+          "NAME": "Dagana",
+          "AREA": 5246.8037109375,
+          "CODE": "SN1001",
+          "ZONES": [
+            { "NAME": "Mbane", "AREA": 2171.420166015625, "CODE": "SN100102" },
+            { "NAME": "Ndiaye", "AREA": 3075.38330078125, "CODE": "SN100101" }
+          ]
+        },
+        {
+          "NAME": "Podor",
+          "AREA": 12920.2939453125,
+          "CODE": "SN1002",
+          "ZONES": [
+            { "NAME": "Cas-Cas", "AREA": 3110.6787109375, "CODE": "SN100204" },
+            {
+              "NAME": "Gamadji Sarre",
+              "AREA": 3863.368408203125,
+              "CODE": "SN100201"
+            },
+            { "NAME": "Salde", "AREA": 2744.064697265625, "CODE": "SN100203" },
+            {
+              "NAME": "Thille Boubakar",
+              "AREA": 3202.181640625,
+              "CODE": "SN100202"
+            }
+          ]
+        },
+        {
+          "NAME": "Saint Louis",
+          "AREA": 803.8530883789062,
+          "CODE": "SN1003",
+          "ZONES": [
+            { "NAME": "Rao", "AREA": 803.8530883789062, "CODE": "SN100301" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Sedhiou",
+      "AREA": 7347.0185546875,
+      "CODE": "SN11",
+      "ZONES": [
+        {
+          "NAME": "Bounkiling",
+          "AREA": 2862.563720703125,
+          "CODE": "SN1101",
+          "ZONES": [
+            { "NAME": "Bogal", "AREA": 1260.126342773438, "CODE": "SN110102" },
+            { "NAME": "Bona", "AREA": 807.5861206054688, "CODE": "SN110101" },
+            {
+              "NAME": "Diaroumé",
+              "AREA": 794.8511962890625,
+              "CODE": "SN110103"
+            }
+          ]
+        },
+        {
+          "NAME": "Goudomp",
+          "AREA": 1735.851806640625,
+          "CODE": "SN1102",
+          "ZONES": [
+            {
+              "NAME": "Djibanar",
+              "AREA": 734.4020385742188,
+              "CODE": "SN110202"
+            },
+            {
+              "NAME": "Karantaba",
+              "AREA": 466.6729431152344,
+              "CODE": "SN110203"
+            },
+            {
+              "NAME": "Simbandi Brassou",
+              "AREA": 534.77685546875,
+              "CODE": "SN110201"
+            }
+          ]
+        },
+        {
+          "NAME": "Sedhiou",
+          "AREA": 2748.602783203125,
+          "CODE": "SN1103",
+          "ZONES": [
+            { "NAME": "Diendé", "AREA": 1386.102172851562, "CODE": "SN110301" },
+            {
+              "NAME": "Djibabouya",
+              "AREA": 680.8683471679688,
+              "CODE": "SN110302"
+            },
+            {
+              "NAME": "Djirédji",
+              "AREA": 681.6323852539062,
+              "CODE": "SN110303"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Tambacounda",
+      "AREA": 42624.70703125,
+      "CODE": "SN12",
+      "ZONES": [
+        {
+          "NAME": "Bakel",
+          "AREA": 6706.630859375,
+          "CODE": "SN1201",
+          "ZONES": [
+            { "NAME": "Bellé", "AREA": 1865.579956054688, "CODE": "SN120103" },
+            {
+              "NAME": "Kiniéba",
+              "AREA": 3466.283447265625,
+              "CODE": "SN120101"
+            },
+            { "NAME": "Moudéri", "AREA": 1374.767700195312, "CODE": "SN120102" }
+          ]
+        },
+        {
+          "NAME": "Goudiry",
+          "AREA": 15657.6650390625,
+          "CODE": "SN1202",
+          "ZONES": [
+            { "NAME": "Bala", "AREA": 2818.282470703125, "CODE": "SN120203" },
+            {
+              "NAME": "Bouinguel Bamba",
+              "AREA": 3023.152099609375,
+              "CODE": "SN120204"
+            },
+            {
+              "NAME": "Dianké Makan",
+              "AREA": 3039.78759765625,
+              "CODE": "SN120201"
+            },
+            { "NAME": "Koulor", "AREA": 6776.44287109375, "CODE": "SN120202" }
+          ]
+        },
+        {
+          "NAME": "Koumpentoum",
+          "AREA": 6888.10302734375,
+          "CODE": "SN1203",
+          "ZONES": [
+            {
+              "NAME": "Bamba Tialene",
+              "AREA": 1830.5869140625,
+              "CODE": "SN120302"
+            },
+            {
+              "NAME": "Koutiaba Wolof",
+              "AREA": 5057.51611328125,
+              "CODE": "SN120301"
+            }
+          ]
+        },
+        {
+          "NAME": "Tambacounda",
+          "AREA": 13372.3095703125,
+          "CODE": "SN1204",
+          "ZONES": [
+            { "NAME": "Koussanar", "AREA": 3153.548828125, "CODE": "SN120403" },
+            {
+              "NAME": "Makacoulibantang",
+              "AREA": 1764.688232421875,
+              "CODE": "SN120402"
+            },
+            { "NAME": "Missira", "AREA": 8454.072265625, "CODE": "SN120401" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Thies",
+      "AREA": 6589.79541015625,
+      "CODE": "SN13",
+      "ZONES": [
+        {
+          "NAME": "Mbour",
+          "AREA": 1897.375,
+          "CODE": "SN1301",
+          "ZONES": [
+            { "NAME": "Fissel", "AREA": 492.4434204101562, "CODE": "SN130103" },
+            { "NAME": "Sessene", "AREA": 687.229248046875, "CODE": "SN130101" },
+            { "NAME": "Sindia", "AREA": 717.7023315429688, "CODE": "SN130102" }
+          ]
+        },
+        {
+          "NAME": "Thies",
+          "AREA": 1607.410278320312,
+          "CODE": "SN1302",
+          "ZONES": [
+            {
+              "NAME": "Keur Moussa",
+              "AREA": 571.3513793945312,
+              "CODE": "SN130201"
+            },
+            { "NAME": "Noto", "AREA": 496.0606689453125, "CODE": "SN130203" },
+            { "NAME": "Tieneba", "AREA": 539.9982299804688, "CODE": "SN130202" }
+          ]
+        },
+        {
+          "NAME": "Tivaoune",
+          "AREA": 3085.009765625,
+          "CODE": "SN1303",
+          "ZONES": [
+            {
+              "NAME": "Meouane",
+              "AREA": 980.1571655273438,
+              "CODE": "SN130303"
+            },
+            {
+              "NAME": "Merina Dakhar",
+              "AREA": 643.91748046875,
+              "CODE": "SN130304"
+            },
+            {
+              "NAME": "Niakhene",
+              "AREA": 781.536865234375,
+              "CODE": "SN130301"
+            },
+            { "NAME": "Pambal", "AREA": 679.3983764648438, "CODE": "SN130302" }
+          ]
+        }
+      ]
+    },
+    {
+      "NAME": "Ziguinchor",
+      "AREA": 7355.1484375,
+      "CODE": "SN14",
+      "ZONES": [
+        {
+          "NAME": "Bignona",
+          "AREA": 5323.8935546875,
+          "CODE": "SN1401",
+          "ZONES": [
+            {
+              "NAME": "Kataba1",
+              "AREA": 1893.581176757812,
+              "CODE": "SN140101"
+            },
+            {
+              "NAME": "Sindian",
+              "AREA": 1469.485473632812,
+              "CODE": "SN140104"
+            },
+            {
+              "NAME": "Tanghori",
+              "AREA": 1061.882080078125,
+              "CODE": "SN140102"
+            },
+            { "NAME": "Tendouk", "AREA": 898.9448852539062, "CODE": "SN140103" }
+          ]
+        },
+        {
+          "NAME": "Oussouye",
+          "AREA": 889.9057006835938,
+          "CODE": "SN1402",
+          "ZONES": [
+            {
+              "NAME": "Cabrousse",
+              "AREA": 421.2141418457031,
+              "CODE": "SN140202"
+            },
+            {
+              "NAME": "Loudia Wolof",
+              "AREA": 468.6915283203125,
+              "CODE": "SN140201"
+            }
+          ]
+        },
+        {
+          "NAME": "Ziguinchor",
+          "AREA": 1141.349365234375,
+          "CODE": "SN1403",
+          "ZONES": [
+            { "NAME": "Niaguis", "AREA": 698.027587890625, "CODE": "SN140301" },
+            { "NAME": "Niassia", "AREA": 443.3217468261719, "CODE": "SN140302" }
+          ]
+        }
+      ]
+    }
+  ]
+}
